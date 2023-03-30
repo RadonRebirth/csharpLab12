@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOmzrSrcpAaAJ/9OO+f1NVQCBZwqhh0Tt1uM0VzS35uUJM+t1HxINlJPAw9+31ClfNoMcapkrk4f4KutjHLzWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IVM505\\source\\repos\\csharpLab12\\csharpLab12\\csharpLab12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IVM505\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\IVM505\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\IVM505\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\IVM505\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
